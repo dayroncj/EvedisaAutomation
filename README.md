@@ -10,4 +10,4 @@ For flow recording: playwright codegen https://qanty.com/portals/tickets?c=8lqYp
 
 For running: python VirtualShiftRequest.py
 
-Conclusion, el recaptcha solo pudo saltarlo 1 vez.  Haciendo petición al endpoint directemente desde Postman tampoco funcionó
+Conclusion, el recaptcha puede saltarlo 1 vez.  Haciendo petición al endpoint directemente desde Postman no funcionó
