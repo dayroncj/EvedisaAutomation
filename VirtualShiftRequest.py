@@ -2,6 +2,8 @@ from playwright.sync_api import sync_playwright
 import re
 from playwright.sync_api import Playwright, sync_playwright, expect
 
+from playwright_stealth import stealth_sync
+
 # data
 sede = "Suba - Calle 145 #85-52 - DB01"
 first_name = "Pedro"
@@ -20,6 +22,9 @@ def run():
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=False)
         page = browser.new_page()
+
+        # Apply the stealth settings
+        # stealth_sync(page) -- No sirvió
 
         page.goto(url)
         
