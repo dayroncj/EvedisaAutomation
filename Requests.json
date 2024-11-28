@@ -1,0 +1,35 @@
+{
+    "session": "84zZWsy2RBSLBg92fsrL",
+    "customer": {
+        "customFields": [],
+        "name": "aaa",
+        "lastName": "aaa",
+        "docTypeId": "1",
+        "docId": "1111111",
+        "email": "a@b.com",
+        "phoneNumbers": {
+            "main": "1111"
+        }
+    },
+    "companyId": "8lqYpCcK4GuXJKm7gKzr",
+    "branchId": "Sfr7vh40jb4CMH04S3x3",
+    "lineId": "5V08MJlrTJ6tHMftHCA2"
+}
+
+{
+    "session": "84zZWsy2RBSLBg92fsrL",
+    "customer": {
+        "customFields": [],
+        "name": "aaa",
+        "lastName": "aaa",
+        "docTypeId": "1",
+        "docId": "1111111",
+        "email": "a@b.com",
+        "phoneNumbers": {
+            "main": "1111"
+        }
+    },
+    "companyId": "8lqYpCcK4GuXJKm7gKzr",
+    "branchId": "ucEejeK7rlmd20G4OLhS",
+    "lineId": "5V08MJlrTJ6tHMftHCA2"
+}
